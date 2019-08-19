@@ -14,4 +14,4 @@ git clone git@github.com:mbranbilla/.custom_bash_profile.git
 source	~/.custom_bash_profile/custom_profile_mac.sh
 ```
 
-**Note:** I recommend to use [OhMyZSH!](https://ohmyz.sh/)
+**Note:** I recommend using [OhMyZSH!](https://ohmyz.sh/)
