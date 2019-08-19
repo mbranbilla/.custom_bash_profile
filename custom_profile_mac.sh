@@ -41,5 +41,3 @@ function rstud {
 	source ~/.bash_profile
 	rstudio
 }
-
-##
